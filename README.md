@@ -1,3 +1,7 @@
+Android Callgraph 추출 시, [Edit] 부분 맞게 수정하시고 다음 커맨드 치세요.
+``` ./gradlew run --args="AndroidCallGraph SPARK draw"```
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
